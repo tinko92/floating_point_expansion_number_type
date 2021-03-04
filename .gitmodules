@@ -1,0 +1,7 @@
+[submodule "geometry"]
+	path = geometry
+	url = https://github.com/BoostGSoC20/geometry.git
+	branch = feature/floating_point_filters
+[submodule "multiprecision"]
+	path = multiprecision
+	url = https://github.com/boostorg/multiprecision.git
